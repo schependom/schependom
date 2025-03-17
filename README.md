@@ -26,8 +26,7 @@ In 2024, I founded **Nuuf**, my own company where I focus on **web development, 
 ### ⚡ Beyond Coding
 
 I'm passionate about living a healthy, active lifestyle. My routine revolves around:  
-🏃🏽 Running | 🚴🏽‍♂️ Cycling | 🏋🏽 Strength training  
-🍌🍝🍞 Fueling properly | 🥑🥜🫒 Cooking delicious and healthy food for a happy gut & mind 🦠💆🏼
+🏃🏽 Running, 🚴🏽‍♂️ Cycling, 🏋🏽 Strength training, 🍌🍝🍞 Fueling for all those activities and 🥑🥜🫒 Cooking delicious and healthy food for a happy gut microbiome & mind 🦠💆🏼
 
 ### 🤝 Let's get in touch!
 
