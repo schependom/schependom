@@ -31,6 +31,6 @@ I'm passionate about living a healthy, active lifestyle. My routine revolves aro
 
 ### 🤝 Let's get in touch!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vanschependom) • ✉️ [Email](mailto:vincent@nuuf.be) • 📷 [Instagram](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/vanschependom) • ✉️ [Email](mailto:vincent@nuuf.be) • 📷 [Instagram](https://instagram.com/schependom)
 
 Feel free to reach out! 🚀
