@@ -28,7 +28,7 @@ This is a collection of some of the awesome projects I've got to work on already
 
 ## Beverrent
 
-👉 [diamanttechnieken.beverrent.be](https://diamanttechnieken.beverrent.be)
+👉 [diamanttechnieken.beverrent.be](https://diamanttechnieken.beverrent.be) \
 👉 [verhuur.beverrent.be](https://verhuur.beverrent.be)
 
 -   Web development
