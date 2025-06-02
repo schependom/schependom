@@ -2,6 +2,16 @@
 
 This is a collection of some of the awesome projects I've got to work on already 🚀
 
+## MC Construct
+
+👉 [mc-construct.com](https://mc-construct.com)
+
+-   Web development
+    -   Content Management System
+    -   Motion design
+-   Logo design
+-   Business cards
+
 ## 't Zonneken
 
 👉 [tzonneken.be](https://tzonneken.be)
