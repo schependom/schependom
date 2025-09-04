@@ -8,7 +8,7 @@ Since 2020, I've been active at **Artometis** as a (web) designer & developer, w
 -   🖊️ Graphic design in **Figma** and **Adobe Illustrator**.
 -   🚀 Motion design using **Adobe After Effects**.
 
-👨🏼‍🏫 I'm also self-taught in **Flutter** and **Python**, and currently diving into **React** (with Tailwind & TypeScript).
+👨🏼‍🏫 I'm also self-taught in **Flutter** and **Python**, and I want to dive into **React** (with Tailwind & TypeScript).
 
 At university, I’ve gained extensive experience with:
 
@@ -17,6 +17,7 @@ At university, I’ve gained extensive experience with:
 -   **SQL** (databases)
 -   **Object-Oriented Programming** (Java)
 -   **Declarative languages** (Prolog)
+-   **Low-level languages & Operating Systems** (C)
 -   **Computer Architecture** (Yes, I can write ASM. No, I don’t enjoy it. 🙈)
 
 ### 🚀 Entrepreneurship
@@ -31,5 +32,3 @@ I'm passionate about living a healthy, active lifestyle. My routine revolves aro
 ### 🤝 Let's get in touch!
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vanschependom) • ✉️ [Email](mailto:vincent@nuuf.be) • 📷 [Instagram](https://instagram.com/schependom)
-
-Feel free to reach out! 🚀
