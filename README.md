@@ -12,13 +12,14 @@ Since 2020, I've been active at **Artometis** as a (web) designer & developer, w
 
 At university, I’ve gained extensive experience with:
 
--   **LaTeX** (academic writing and presentations)
+-   **Machine Learning** and **Deep Learning** (NN's in PyTorch)
+-   **C-programming** (operating systems, TCP/IP, Linux servers)
 -   **R** (statistics)
 -   **SQL** (databases)
 -   **Object-Oriented Programming** (Java)
--   **Declarative languages** (Prolog)
--   **Low-level languages & Operating Systems** (C)
+-   **Declarative languages** (Prolog, Haskell)
 -   **Computer Architecture** (Yes, I can write ASM. No, I don’t enjoy it. 🙈)
+-   **LaTeX** (academic writing and presentations)
 
 ### 🚀 Entrepreneurship
 
