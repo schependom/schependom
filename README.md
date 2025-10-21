@@ -1,6 +1,6 @@
 # Goeiendag, bonjour, hello there! 👋
 
-I'm Vincent, a second-year Computer Science student at **KU Leuven**.
+I'm Vincent, a third-year Computer Science student at **KU Leuven**.
 
 Since 2020, I've been active at **Artometis** as a (web) designer & developer, working on:
 
@@ -13,11 +13,11 @@ Since 2020, I've been active at **Artometis** as a (web) designer & developer, w
 At university, I’ve gained extensive experience with:
 
 -   **Machine Learning** and **Deep Learning** (NN's in PyTorch)
--   **C-programming** (operating systems, TCP/IP, Linux servers)
+-   **C-programming** (operating systems, TCP/IP, UNIX environments)
 -   **R** (statistics)
 -   **SQL** (databases)
 -   **Object-Oriented Programming** (Java)
--   **Declarative languages** (Prolog, Haskell)
+-   **Declarative languages** (Prolog, Haskell, ASP)
 -   **Computer Architecture** (Yes, I can write ASM. No, I don’t enjoy it. 🙈)
 -   **LaTeX** (academic writing and presentations)
 
@@ -28,7 +28,7 @@ In 2024, I founded **Nuuf**, my own company where I focus on **web development, 
 ### ⚡ Beyond Coding
 
 I'm passionate about living a healthy, active lifestyle. My routine revolves around:  
-🏃🏽 Running, 🚴🏽‍♂️ Cycling, 🏋🏽 Strength training, 🍌🍝🍞 Fueling for all those activities and 🥑🥜🫒 Cooking delicious and healthy food for a happy gut microbiome & mind 🦠💆🏼
+🏃🏽 Running, 🚴🏽‍♂️ Cycling, 🏊🏻 Swimming, 🏋🏽 Strength training, 🍌🍝🍞 Fueling for all those activities and 🥑🥜🫒 Cooking delicious and healthy food for a happy gut microbiome & mind 🦠💆🏼
 
 ### 🤝 Let's get in touch!
 
