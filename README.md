@@ -1,37 +1,44 @@
-## Vincent Van Schependom
+<div align="center">
+  <h1>Hi there, I'm Vincent! 👋</h1>
+</div>
 
-Third-year Computer Science student at **KU Leuven** and self-employed developer & designer.
+### 👨‍💻 Developer | Designer | CS Student @ KU Leuven
 
-### Studies
+I am a Computer Science student @ KU Leuven and self-employed developer & designer.
 
-At university, I’ve gained extensive experience with:
+---
 
--   **Machine Learning** and **Deep Learning** (NN's in PyTorch)
--   **Machine Learning Operations** (creating a production-level ML codebase)
--   **C-programming** (operating systems, TCP/IP, UNIX environments)
--   **R** (statistics)
--   **SQL** (databases)
--   **Object-Oriented Programming** (Java)
--   **Declarative languages** (Prolog, Haskell, ASP)
--   **Computer Architecture** (Yes, I can write ASM. No, I don’t enjoy it. 🙈)
--   **LaTeX** (academic writing and presentations)
+### 🛠 Experience & tools
 
-I'm also self-taught in **Flutter** and **Python**, and currently diving into **React** & **NextJS**.
+|                           | Skills                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data Science & AI**     | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)         |
+| **Web & App Development** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Programming**           | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/-Prolog-C92C37?style=flat&logo=prolog&logoColor=white)             |
+| **Tools**                 | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)                                                                                                  |
+| **Design & Prototyping**  | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-31A8FF?style=flat&logo=adobe&logoColor=white)                                                                                                                                                               |
+| **Academic**              | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white)                                                                                                                                                                                          |
 
-### Entrepreneurship
+---
 
-Since 2020, I've been active at **Artometis** as a (web) designer & developer, working on:
+### 🚀 Entrepreneurship
 
--   Web development with **HTML, CSS, JavaScript**, and **PHP** to integrate WordPress CMS solutions for clients.
--   Graphic & motion design, using the **Adobe Creative Suite** and **Figma**.
+I'm active in web development with **HTML, CSS, JavaScript**, and **PHP** to integrate WordPress CMS solutions for clients. I also do graphic & motion design, using the **Adobe Creative Suite** and **Figma**.
 
-In 2024, I founded **Nuuf**, my own company where I focus on **web development, software solutions, and design**.
+-   **Founder @ Nuuf (2024 - Present)**
+-   **Designer/Dev @ Artometis (2020 - Present)**
 
-### Beyond Coding
+---
 
-I'm passionate about living a healthy, active lifestyle. My routine revolves around:  
-🏃🏽 Running, 🚴🏽‍♂️ Cycling, 🏊🏻 Swimming, 🏋🏽 Strength training, 🍌🍝🍞 Fueling for all those activities and 🥑🥜🫒 Cooking delicious and healthy food for a happy gut microbiome & mind 🦠💆🏼
+### ⚡ Beyond the Keyboard
 
-### Let's get in touch!
+I believe a healthy body fuels a healthy codebase.
+🏃🏽 Running | 🚴🏽‍♂️ Cycling | 🏊🏻 Swimming | 🥑 Cooking for a happy microbiome
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vanschependom) • ✉️ [Email](mailto:vincent@nuuf.be) • 📷 [Instagram](https://instagram.com/schependom)
+---
+
+### 📫 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanschependom)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vincent@nuuf.be)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/schependom)
