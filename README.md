@@ -1,12 +1,8 @@
-<div align="center">
-  <h1>Hi there, I'm Vincent! 👋</h1>
-</div>
+# Hi there, I'm Vincent! 👋</h1>
 
 ### 👨‍💻 Developer | Designer | CS Student @ KU Leuven
 
 I am a Computer Science student @ KU Leuven and self-employed developer & designer.
-
----
 
 ### 🛠 Experience & tools
 
@@ -19,8 +15,6 @@ I am a Computer Science student @ KU Leuven and self-employed developer & design
 | **Design & Prototyping**  | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-31A8FF?style=flat&logo=adobe&logoColor=white)                                                                                                                                                               |
 | **Academic**              | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white)                                                                                                                                                                                          |
 
----
-
 ### 🚀 Entrepreneurship
 
 I'm active in web development with **HTML, CSS, JavaScript**, and **PHP** to integrate WordPress CMS solutions for clients. I also do graphic & motion design, using the **Adobe Creative Suite** and **Figma**.
@@ -28,14 +22,10 @@ I'm active in web development with **HTML, CSS, JavaScript**, and **PHP** to int
 -   **Founder @ Nuuf (2024 - Present)**
 -   **Designer/Dev @ Artometis (2020 - Present)**
 
----
-
 ### ⚡ Beyond the Keyboard
 
 I believe a healthy body fuels a healthy codebase.
 🏃🏽 Running | 🚴🏽‍♂️ Cycling | 🏊🏻 Swimming | 🥑 Cooking for a happy microbiome
-
----
 
 ### 📫 Let's Connect
 
