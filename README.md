@@ -1,6 +1,8 @@
-I'm Vincent, a third-year Computer Science student at **KU Leuven** and self-employed developer & designer.
+## Vincent Van Schependom
 
-## Studies
+Third-year Computer Science student at **KU Leuven** and self-employed developer & designer.
+
+### Studies
 
 At university, I’ve gained extensive experience with:
 
@@ -16,7 +18,7 @@ At university, I’ve gained extensive experience with:
 
 I'm also self-taught in **Flutter** and **Python**, and currently diving into **React** & **NextJS**.
 
-## Entrepreneurship
+### Entrepreneurship
 
 Since 2020, I've been active at **Artometis** as a (web) designer & developer, working on:
 
