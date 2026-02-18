@@ -1,5 +1,3 @@
-# Hi there, I'm Vincent! 👋</h1>
-
 ### 👨‍💻 Developer | Designer | CS Student @ KU Leuven
 
 I am a Computer Science student @ KU Leuven and self-employed developer & designer.
